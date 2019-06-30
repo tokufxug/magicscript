@@ -1,0 +1,74 @@
+[
+ {
+  "dest": "bin/index.js",
+  "src": "c:/MagicScript/my-textinput/bin/index.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/assert.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/assert.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/bintools.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/bintools.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/codec-wrap.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/codec-wrap.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/fetch.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/fetch.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/fs.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/fs.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/headers.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/headers.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/http-codec.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/http-codec.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/mime.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/mime.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/polyfills.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/polyfills.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/resolve.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/resolve.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/socket-wrap.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/socket-wrap.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/tcp.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/tcp.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/text-encoder.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/text-encoder.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/timers.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/timers.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/tls-wrap.js",
+  "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/tls-wrap.js"
+ },
+ {
+  "dest": "bin/src/app.js",
+  "src": "c:/MagicScript/my-textinput/bin/src/app.js"
+ },
+ {
+  "dest": "bin/src/main.js",
+  "src": "c:/MagicScript/my-textinput/bin/src/main.js"
+ }
+]

@@ -1,0 +1,165 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "9b3b9bf7aaa41ad178f5c1db28d09b7cfe724299",
+   "pkgpath": "bin/index.js",
+   "size": 49,
+   "src": "c:/MagicScript/my-textinput/bin/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d344c26a9ceeff8bb40296a577b72a297ff92581",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/assert.js",
+   "size": 211,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/assert.js"
+  },
+  {
+   "compression": 8,
+   "hash": "17fcf50c89bbc080857834fc41cfd821dab9eec7",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/bintools.js",
+   "size": 2796,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/bintools.js"
+  },
+  {
+   "compression": 8,
+   "hash": "729ce87b75d12df4ec5960766b0c183ee596859a",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/codec-wrap.js",
+   "size": 1708,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/codec-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "adcd058b16e0ecd4e8be6aea2e44816c8cbd79a6",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fetch.js",
+   "size": 8012,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/fetch.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dc94a34430d228a10707fdb96768a3c6a253555d",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fs.js",
+   "size": 3682,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/fs.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fba38a801a253c83f2f4fe6155a3180ead5d425f",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/headers.js",
+   "size": 1410,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/headers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4777029b24142559e1dac0ac3ae0fb5f88492ffe",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/http-codec.js",
+   "size": 8582,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/http-codec.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a463ddb17460e051dfd086de8d70ead0fdea59af",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/mime.js",
+   "size": 5784,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/mime.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7d5ba694234b3f99cfad51776425d456ddd4b659",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/polyfills.js",
+   "size": 800,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/polyfills.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5a531a5aea8706254fdf577c0231c1d922023310",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/resolve.js",
+   "size": 859,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/resolve.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c665a011b71fd571aea7703cf3a0a0f96b95343e",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/socket-wrap.js",
+   "size": 2606,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/socket-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c8211086533b39dd2c8f803af60b208529f5b541",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/tcp.js",
+   "size": 707,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/tcp.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2ca4e16db232d9bdc449fafae0ca9abec0dcae93",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/text-encoder.js",
+   "size": 2386,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/text-encoder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "548283cb338183bfa90a647a679bc42581d95f92",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/timers.js",
+   "size": 2919,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/timers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ba230d3a70e3fe50d3ecd93b66e78cc7109551bc",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/tls-wrap.js",
+   "size": 2384,
+   "src": "c:/MagicScript/my-textinput/bin/node_modules/magic-script-polyfills/src/tls-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "603aa449a8c3bcbcf3f4956e2cedac4972d76cb4",
+   "pkgpath": "bin/src/app.js",
+   "size": 943,
+   "src": "c:/MagicScript/my-textinput/bin/src/app.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b075676bab19b1753b5db06c499274cb565fd78b",
+   "pkgpath": "bin/src/main.js",
+   "size": 365,
+   "src": "c:/MagicScript/my-textinput/bin/src/main.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dd070a4430ed472380fd5cee6ce7f0b1d6d3f852",
+   "pkgpath": "./digest.sha512.signed",
+   "size": 3989,
+   "src": "c:/MagicScript/my-textinput/digest.sha512.signed"
+  },
+  {
+   "compression": 8,
+   "hash": "8efe465c027e5a488330cc0cecdfa742aaa11b4c",
+   "pkgpath": "manifest.xml",
+   "size": 629,
+   "src": "c:/MagicScript/my-textinput\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "6d32207df159b50f612fd359f7885978dc6adba1",
+     "developer_id": "f1f61ed3-6862-4e30-9781-b48e7bdc3084",
+     "min_api_level": "2"
+    }
+   },
+   "xfrm_hash": "cd4918e92ffc28f19d0e751903a198ae6feedd04",
+   "xfrm_path": "c:/MagicScript/my-textinput/.out/app/debug_lumin_clang-3.8_aarch64\\manifest.xml-961ce71244429e16",
+   "xfrm_size": 598
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\Sadao Tokuyama\\Documents\\Grant\\Magic Modelers\\Assets\\CSR\\magic_modelers_develop.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\Sadao Tokuyama\\Documents\\Grant\\Magic Modelers\\Assets\\CSR\\magic_modelers_develop.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
